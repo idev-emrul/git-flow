@@ -5,12 +5,14 @@ GitHub workflow by git flow and its steps.
 GitHub workflow by git flow and its steps.
 
 -----
-GIT FLOW (Github full workflow) <br>
-By: HM Emrul<br>
-Developer<br>
-Skype: emrul87<br>
+    GIT FLOW (Github full workflow) 
+    By: HM Emrul
+    Developer
+    Skype: emrul87
 ------
->-- BRANCHES OF GIT FLOW CONTROL
+
+--------
+> BRANCHES OF GIT FLOW CONTROL
 
 <ol>
     <li>Master branch </li>
@@ -21,7 +23,7 @@ Skype: emrul87<br>
     <li>Bugfix branch</li>
 </ol>
 
-<h4 style="text-align: center;">PRODUCTION RELATIONS BETWEEN DOMAIN AND GITHUB</h4>
+> <h4 style="text-align: center;">PRODUCTION RELATIONS BETWEEN DOMAIN AND GITHUB</h4>
 <ul>
     <ol>Master branch will be linked with the public domain for public use. like: www.emptycoder.com</ol>
     <ol>Develop branch will linked with demo domain for testing purpose Like www.demo.emptycoder.com</ol>
