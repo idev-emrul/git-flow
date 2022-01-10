@@ -4,13 +4,13 @@ GitHub workflow by git flow and its steps.
 # git-flow
 GitHub workflow by git flow and its steps.
 
-//====================================================================================<br>
+//================================================================<br>
 GIT FLOW (Github full workflow) <br>
 By: HM Emrul<br>
 Developer<br>
 Skype: emrul87<br>
-//====================================================================================
-
+//================================================================
+------
 BRANCHES OF GIT FLOW CONTROL
 
 <ol>
